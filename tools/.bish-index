@@ -1,0 +1,13 @@
+./git-mpr.py
+./update_whatsnew.py
+./backport_pr.py
+./make_tarball.py
+./fixup_whats_new_pr.py
+./gh_api.py
+./github_stats.py
+./check_sources.py
+./tests/inline_figshow.py
+./toollib.py
+./mknbindex.py
+./gen_latex_symbols.py
+./release_helper.sh

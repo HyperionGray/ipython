@@ -1,0 +1,7 @@
+./utils/cwd_prompt.py
+./IPython Kernel/ipython-get-history.py
+./IPython Kernel/example-demo.py
+./Embedding/embed_function.py
+./Embedding/embed_class_long.py
+./Embedding/embed_class_short.py
+./Embedding/start_ipython_config.py

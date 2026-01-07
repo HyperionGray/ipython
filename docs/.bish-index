@@ -1,0 +1,9 @@
+./autogen_api.py
+./sphinxext/github.py
+./sphinxext/configtraits.py
+./sphinxext/magics.py
+./sphinxext/apigen.py
+./source/conf.py
+./autogen_config.py
+./autogen_magics.py
+./autogen_shortcuts.py
